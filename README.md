@@ -1,3 +1,3 @@
 # GlossaryProject
 Webbaserad glosförhör
-![Dokumentation](/Glossary dokumentation.pdf)
+![Dokumentation(/glossary-dokumentation.pdf)
