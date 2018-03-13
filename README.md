@@ -1,0 +1,2 @@
+# GlossaryProject
+Webbaserad glosförhör
