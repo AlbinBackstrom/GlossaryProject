@@ -3,4 +3,4 @@ Glossary är en webbaserad sida där användaren kan träna på glosor, ant
 
 Skriven i C# och har en databaskoppling till Azure. 
 
-För mer information kolla https://github.com/AlbinBackstrom/GlossaryProject/blob/master/glossary-dokumentation.pdf
+För mer information och användarmanual: https://github.com/AlbinBackstrom/GlossaryProject/blob/master/glossary-dokumentation.pdf
