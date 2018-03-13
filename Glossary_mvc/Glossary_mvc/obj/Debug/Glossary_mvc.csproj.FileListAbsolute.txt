@@ -1,0 +1,390 @@
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\ApplicationInsights.config
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.exe
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.exe.config
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.rsp
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\csi.exe
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\csi.rsp
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\System.AppContext.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.exe
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.exe.config
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.rsp
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.dll.config
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.pdb
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\EntityFramework.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Web.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Helpers.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Mvc.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Razor.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\EntityFramework.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Web.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Razor.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Helpers.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Mvc.xml
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.dll
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.pdb
+C:\Users\Sofia Jannesson\Source\Workspaces\Glossary\Glossary\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.csprojResolveAssemblyReference.cache
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.csprojResolveAssemblyReference.cache
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.pdb
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\ApplicationInsights.config
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.exe
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.exe.config
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.rsp
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\csi.exe
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\csi.rsp
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\System.AppContext.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.exe
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.exe.config
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.rsp
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.dll.config
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.pdb
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\EntityFramework.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Web.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\System.Web.Helpers.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\System.Web.Mvc.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\System.Web.Razor.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\EntityFramework.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Web.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\System.Web.Razor.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\System.Web.Helpers.xml
+C:\Users\alba0008\Downloads\Glossary_mvc\sofia2\Glossary_mvc\Glossary_mvc\bin\System.Web.Mvc.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\ApplicationInsights.config
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.exe
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.exe.config
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.rsp
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\csi.exe
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\csi.rsp
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\System.AppContext.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Collections.Immutable.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\System.IO.FileSystem.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Reflection.Metadata.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.exe
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.exe.config
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.rsp
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\VBCSCompiler.exe
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\roslyn\VBCSCompiler.exe.config
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.dll.config
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.pdb
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\EntityFramework.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\EntityFramework.SqlServer.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.DependencyCollector.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Web.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.WindowsServer.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.ApplicationInsights.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.Web.Infrastructure.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Helpers.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Mvc.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Razor.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Deployment.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Razor.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\EntityFramework.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\EntityFramework.SqlServer.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.DependencyCollector.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Web.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.WindowsServer.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.ApplicationInsights.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Razor.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Deployment.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Razor.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Helpers.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\bin\System.Web.Mvc.xml
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.csprojResolveAssemblyReference.cache
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.dll
+H:\Sofias Glossary - Copy\GlossaryMVC\Glossary\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.pdb
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\ApplicationInsights.config
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.exe
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.exe.config
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.rsp
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\csi.exe
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\csi.rsp
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\System.AppContext.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.exe
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.exe.config
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.rsp
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.dll.config
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.pdb
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\EntityFramework.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Web.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\System.Web.Helpers.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\System.Web.Mvc.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\System.Web.Razor.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\EntityFramework.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Web.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\System.Web.Razor.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\System.Web.Helpers.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\bin\System.Web.Mvc.xml
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.csprojResolveAssemblyReference.cache
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.dll
+C:\Users\Sofia Jannesson\Downloads\Glossary_mvc- merged albin och sofia\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.pdb
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\ApplicationInsights.config
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.exe
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.exe.config
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.rsp
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\csi.exe
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\csi.rsp
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\System.AppContext.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.exe
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.exe.config
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.rsp
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.dll.config
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.pdb
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\EntityFramework.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Web.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\System.Web.Helpers.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\System.Web.Mvc.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\System.Web.Razor.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\EntityFramework.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Web.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\System.Web.Razor.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\System.Web.Helpers.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\System.Web.Mvc.xml
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.csprojResolveAssemblyReference.cache
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.pdb
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\NLog.config
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\NLog.dll
+C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\bin\NLog.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\ApplicationInsights.config
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.exe
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.exe.config
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\csc.rsp
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\csi.exe
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\csi.rsp
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\System.AppContext.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.exe
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.exe.config
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\vbc.rsp
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\NLog.config
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.dll.config
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Glossary_mvc.pdb
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\EntityFramework.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Web.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\NLog.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\System.Web.Helpers.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\System.Web.Mvc.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\System.Web.Razor.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\EntityFramework.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.Web.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\NLog.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\System.Web.Razor.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\System.Web.Helpers.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\bin\System.Web.Mvc.xml
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.csprojResolveAssemblyReference.cache
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.dll
+C:\Users\Sofia Jannesson\Desktop\GlossaryProject\Glossary_mvc\Glossary_mvc\obj\Debug\Glossary_mvc.pdb

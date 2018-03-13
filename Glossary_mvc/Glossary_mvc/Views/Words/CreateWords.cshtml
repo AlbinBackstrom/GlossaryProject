@@ -1,0 +1,72 @@
+﻿@model Glossary_mvc.Models.TestWordModel
+
+@{
+    ViewBag.Title = "CreateWords";
+}
+
+<h2>Lägg till ord</h2>
+<h4>@Html.DisplayFor(model => model.Name)</h4>
+<hr />
+
+@using (Html.BeginForm("SaveWord", "Words"))
+{
+    @Html.HiddenFor(model => model.TestId)
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <div class="container-add">
+        <div class="row">
+            <div class="col-md-4">
+                <label>Ord på @Html.DisplayFor(model => model.LangOne)</label>
+                @Html.EditorFor(model => model.AddWord.Word1, new { htmlAttributes = new { @class = "form-control", placeholder = "" } })
+                @Html.ValidationMessageFor(model => model.AddWord.Word1, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-4">
+                <label>Ord på @Html.DisplayFor(model => model.LangTwo)</label>
+                @Html.EditorFor(model => model.AddWord.Word2, new { htmlAttributes = new { @class = "form-control", placeholder = "" } })
+                @Html.ValidationMessageFor(model => model.AddWord.Word2, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-4">
+                <br />
+                <input type="submit" class="btn btn-default" value="Lägg till ord" />
+            </div>
+        </div>
+    </div>
+    <br />
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>@Html.DisplayFor(model => model.LangOne)</th>
+                <th>@Html.DisplayFor(model => model.LangTwo)</th>
+                <th>Redigera ord</th>
+                <th>Ta bort ord</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Word word in Model.Words)
+            {
+                <tr>
+                    <td>@word.Word1</td>
+                    <td>@word.Word2</td>
+                    <td>
+                        @Html.ActionLink("Redigera", "UpdateWord", new { id = word.Id }, new { @class = "btn btn-info btn-xs" })
+                    </td>
+                    <td>
+                        @Html.ActionLink("Ta bort", "DeleteWord", new { id = word.Id }, new { @class = "btn btn-danger btn-xs" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="row">
+        <div class="col-md-4">
+            <br />
+            @Html.ActionLink("Starta test", "Index", "DoTest", new { id = Model.TestId }, new { @class = "btn btn-primary" })
+        </div>
+    </div>
+}
+
+

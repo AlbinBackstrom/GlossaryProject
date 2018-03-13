@@ -1,0 +1,20 @@
+2016-11-06 09:51:14.3920 TRACE Save user 
+2016-11-06 09:51:14.5040 TRACE User saved
+2016-11-06 09:52:48.1678 TRACE Save user 
+2016-11-06 09:52:48.3418 ERROR Unable to save in database
+2016-11-06 09:52:56.4019 TRACE Save user 
+2016-11-06 09:52:56.4829 ERROR Unable to save in database
+2016-11-06 09:53:02.0680 TRACE Save user 
+2016-11-06 09:53:02.1330 TRACE User saved
+2016-11-06 10:04:57.4445 TRACE Save user 
+2016-11-06 10:04:57.5305 TRACE User saved
+2016-11-06 10:04:57.6265 ERROR Unable to save in database
+2016-11-06 10:28:00.8074 TRACE Save user  
+2016-11-06 10:28:00.9835 ERROR Unable to save in database System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Glossary_mvc.Controllers.MyPageController.SaveUser(UserModel userInfo) in C:\Users\Sofia Jannesson\Downloads\SISTA SISTA versionen av mvc\Glossary_mvc\Glossary_mvc\Controllers\MyPageController.cs:line 65
+2016-11-06 10:30:36.5373 TRACE Save user  
+2016-11-06 12:22:20.9893 TRACE Save user  
+2016-11-06 12:22:21.0988 TRACE User saved 

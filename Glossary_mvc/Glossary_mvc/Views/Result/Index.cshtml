@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Glossary_mvc.Result>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Mina resultat</h2>
+<hr />
+
+<table class="table table-striped table-hover">
+    <tr>
+        <th>
+            <label>Testets namn</label>
+        </th>
+        <th>
+            <label>Antal rätt</label>
+        </th>
+        <th>
+            <label>Datum</label>
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (Result item in Model)
+    {
+        <tr>
+            <td>
+                @item.Test.Name
+            </td>
+            <td>
+                @item.CorrectWords av 
+                @item.NumberOfQuestions
+            </td>
+            <td>
+                @item.Date.ToString("dd MMM yyyy hh:mm")
+            </td>
+            <td>
+                @Html.ActionLink("Ta bort", "DeleteResult", new { id = item.Id }, new { @class = "btn btn-danger btn-xs" })
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,76 @@
+﻿@model Glossary_mvc.Models.Answers
+
+@{
+    ViewBag.Title = "Resultat";
+}
+
+<h2>Ditt resultat</h2>
+<hr />
+
+<h4>
+    @ViewBag.DisplayMessageNumbers<br />
+    @ViewBag.DisplayMessage
+</h4>
+<hr />
+<br />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <label class="font-size">Originalspråk</label>
+        </div>
+        <div class="col-md-3">
+            <label class="font-size">Översättningsspråk</label>
+        </div>
+        <div class="col-md-3">
+            <label class="font-size">Din översättning</label>
+        </div>
+    </div>
+
+    @using (Html.BeginForm("SubmitButton", "DoTest"))
+    {
+        <div class="row">
+            <div class="form-group">
+                <div class="col-md-3">
+                    <span class="font-size">
+                        @foreach (var item in Model.FacitWord1)
+                        {
+                            @Html.Raw(Html.DisplayFor(m => item, new { htmlAttributes = new { @class = "form-control font-size " } }) + "</br>")
+                        }
+                    </span>
+                </div>
+
+                <div class="col-md-3">
+                    <span class="font-size">
+                        @foreach (var item in Model.FacitWord2)
+                        {
+                            @Html.Raw(Html.DisplayFor(m => item, new { htmlAttributes = new { @class = "form-control " } }) + "</br>")
+                        }
+                    </span>
+                </div>
+
+                <div class="col-md-3">
+                    <span class="font-size">
+                        @foreach (var item in Model.GuessedWrong)
+                        {
+                            @Html.Raw(Html.DisplayFor(m => item, new { htmlAttributes = new { @class = "form-control " } }) + "</br>")
+                        }
+                    </span>
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+        <div class="allign-down">
+            <div class="row">
+                <div class="col-md-2">
+                    @Html.ActionLink("Spara resultat", "SaveResult", "DoTest", new { id = Model.TestId, numWords = Model.NumberOfTotalWords, numCorrWords = Model.CorrectAnswers }, new { @class = "btn btn-success" })
+                </div>
+
+                <div class="col-md-2">
+                    @Html.ActionLink("Gör om testet", "Index", "DoTest", new { id = Model.TestId }, new { @class = "btn btn-default" })
+                </div>
+            </div>
+        </div>
+    }
+</div>
